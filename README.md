@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linhtetkyaw079&label=Profile%20views&color=0e75b6&style=flat" alt="linhtetkyaw079" /> </p>
 
-- ðŸŒ± Iâ€™m currently learning **Android Application Developoment,Web Development**
+-  I'm currently learning **Android Application Developoment,Web Development**
 
-- ðŸ’¬ Ask me about **Sketchware,Web Basic,Android Development**
+-  Ask me about **Sketchware,Web Basic,Android Development**
 
-- ðŸ“« How to reach me **linhtetkyaw079@gmail.com**
+-  How to reach me **linhtetkyaw079@gmail.com**
 
-- âš¡ Fun fact **I think that I am funny.**
+-  Fun fact **I think that I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
