@@ -1,25 +1,36 @@
-### Hi there 👋, My Name is Lin Htet Kyaw, I'm From Myanmar 🇲🇲.
-#### I am Software Developer and Business Leader
-![I am Software Developer and Business Leader](https://raw.githubusercontent.com/linhtetkyaw079/Lin_Htet_Kyaw/Flutter/FB_IMG_1686266942575.jpg)
+![logo](https://github.com/kowinhtike/kowinhtike/raw/main/banner.jpg)
+<h1 align="center">Hi ðŸ‘‹, I'm Lin Htet Kyaw</h1>
+<h3 align="center">Software Programmer </h3>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
-Skills: JAVA/ HTML/CSS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kowinhtike&label=Profile%20views&color=0e75b6&style=flat" alt="kowinhtike" /> </p>
 
-- 🔭 I’m currently working on Freelancer 
-- 🌱 I’m currently learning Android Development 
+- ðŸŒ± Iâ€™m currently learning **Android Application Developoment,Web Development**
 
+- ðŸ’¬ Ask me about **Sketchware,Web Basic,Android Development**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/linhtetkyaw079)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linhtetkyaw079/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://m.me/LinuxLXGG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://m.me/LinuxLXGG/)  
+- ðŸ“« How to reach me **linhtetkyaw079@gmail.com**
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- âš¡ Fun fact **I think that I am funny.**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=linhtetkyaw079)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://m.me/LinuxLXGG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kowinhtike" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhtetkyaw079)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=linhtetkyaw079&show_icons=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linhtetkyaw079&show_icons=true&locale=en&layout=compact" alt="linhtetkyaw079" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linhtetkyaw079&show_icons=true&locale=en" alt="linhtetkyaw079" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=linhtetkyaw079)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linhtetkyaw079&" alt="linhtetkyaw079" /></p>
